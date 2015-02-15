@@ -1,7 +1,7 @@
 
 var assert = require('assert');
 var Highlight = require('highlight');
-var xml = require('highlight-xml');
+var xml = require('../lib');
 
 var h;
 

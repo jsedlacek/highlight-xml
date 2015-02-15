@@ -1,0 +1,18 @@
+{
+  "name": "highlight-xml",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsedlacek/highlight-xml.git"
+  },
+  "description": "A Highlight plugin for XML and HTML.",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "highlight": "git://github.com/jsedlacek/highlight",
+    "phantomjs": "^1.9.15",
+    "zuul": "^1.18.1"
+  }
+}
